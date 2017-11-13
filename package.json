@@ -1,0 +1,10 @@
+{
+  "name": "adaptive-cards-01",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Nithyanand K N <knnithyanand@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "microsoft-adaptivecards": "^0.6.1"
+  }
+}
